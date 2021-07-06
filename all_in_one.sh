@@ -1,0 +1,10 @@
+#!/bin/bash -f
+source 1_gen_pnet_train_data.sh
+source 2_assemble_pnet_imglist.sh
+source 3_train_pnet.sh
+source 4_gen_rnet_train_data.sh
+source 5_assemble_rnet_imglist.sh
+source 6_train_rnet.sh
+source 7_gen_onet_train_data.sh
+source 8_assemble_onet_imglist.sh
+source 9_train_onet.sh

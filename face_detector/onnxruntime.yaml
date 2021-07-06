@@ -1,0 +1,13 @@
+name: onnxruntime
+channels:
+  - defaults
+dependencies:
+  - pip:
+    - numpy==1.19.5
+    - onnxruntime==1.7.0
+    - opencv-contrib-python==4.5.1.48
+    - opencv-python==4.5.1.48
+    - protobuf==3.15.7
+    - six==1.15.0
+    - typing-extensions==3.7.4.3
+prefix: /home/bjkim/anaconda3/envs/onnxruntime
