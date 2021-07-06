@@ -1,7 +1,7 @@
 # pytorch_mtcnn
 pytorch mtcnn
 
-Implementation of pytorch mtcnn with trainable on PYTORCH > 1.3
+Implementation of pytorch mtcnn with on PYTORCH > 1.3
 
 environment : check the 'requirement.yaml'
 
